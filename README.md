@@ -1,2 +1,2 @@
 # OpenCV
-This IPython notebook contains the content of a workshop on Image Processing with OpenCV
+This IPython notebook is a short tutorial on Image Processing with OpenCV
